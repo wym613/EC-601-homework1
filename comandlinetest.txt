@@ -1,0 +1,2 @@
+I am trying to upload a file from the commandline 
+trying upload an example text file in the commandline
