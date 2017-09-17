@@ -17,3 +17,4 @@ Input
 Output
 -------------------
 <img src="https://github.com/developerChenRui/EC-601-homework1/blob/master/texture_flow_output.png" width="50%" height="50%">
+#I have read the program
